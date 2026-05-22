@@ -1,0 +1,20 @@
+{
+    "food_key": "9",
+    "food_interval": 45,
+    "rune_key": "7",
+    "rune_interval": 60,
+    "tab_interval": 20,
+    "battlelist_region": {
+        "left": 1121,
+        "top": 719,
+        "width": 142,
+        "height": 342
+    },
+    "fish_key": "0",
+    "fishing_region": {
+        "left": 517,
+        "top": 172,
+        "width": 826,
+        "height": 588
+    }
+}
