@@ -111,4 +111,7 @@ region coordinates
 Build executable
 pyinstaller --windowed --name MiniBot main.py
 Output location
+HEAD
 dist/MiniBot/
+dist/MiniBot/
+54422dd6cd15504d1afdef8a1e4a12ef339abb73
