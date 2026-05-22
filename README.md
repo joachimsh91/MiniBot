@@ -110,7 +110,7 @@ region coordinates
 # 🚀 Build & Release (PyInstaller)
 Build executable:
 
-pyinstaller --windowed --name MiniBot main.py
+python -m PyInstaller --onedir --windowed --name MiniBot main.py
 
 Output location:
 
