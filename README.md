@@ -108,10 +108,10 @@ intervals
 region coordinates
 
 # 🚀 Build & Release (PyInstaller)
-Build executable
+Build executable:
+
 pyinstaller --windowed --name MiniBot main.py
-Output location
-HEAD
+
+Output location:
+
 dist/MiniBot/
-dist/MiniBot/
-54422dd6cd15504d1afdef8a1e4a12ef339abb73
