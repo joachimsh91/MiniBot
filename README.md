@@ -70,47 +70,49 @@ Configure features
 
 Inside GUI:
 
-Set hotkeys
+1. Set hotkeys
 
-Set intervals
+2. Set intervals
 
-Save settings
+3. Save settings
 
 
 Setup regions
 
 🎣 Fishing Area
 
-Open AutoFish tab
+1. Open AutoFish tab
 
-Click Setup Fishing Area
+2. Click Setup Fishing Area
 
-Click TOP-LEFT corner
+3. Click TOP-LEFT corner
 
-Click BOTTOM-RIGHT corner
+4. Click BOTTOM-RIGHT corner
 
 
 🛑 AutoLogout Area
 
-Open AutoLogout tab
+1. Open AutoLogout tab
 
-Click Setup Battlelist
+2. Click Setup Battlelist
 
-Click TOP-LEFT corner
+3. Click TOP-LEFT corner
 
-Click BOTTOM-RIGHT corner
+4. Click BOTTOM-RIGHT corner
 
 
 Start bot
 
-Enable features
-Click Start Bot
-Switch to game window before the 5 second timer finishes
+1. Enable features
+
+2. Click Start Bot
+
+3. Switch to game window before the 5 second timer finishes
 
 
 Stop bot
 
-Click Stop Bot
+1. Click Stop Bot
 
 # 💾 Configuration System
 
