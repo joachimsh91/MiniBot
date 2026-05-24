@@ -31,9 +31,7 @@ Triggers automatic logout when a threat is detected.
 # 📦 How to setup
 
 1. Clone the project
-2. Download the Python dependencies with: 
-
-pip install -r requirements.txt
+2. Download the Python dependencies with: pip install -r requirements.txt
 
 # ▶️ Running the Project 
 
@@ -122,9 +120,9 @@ setup.json
 
 Includes:
 
-hotkeys
-intervals
-region coordinates
+- hotkeys
+- intervals
+- region coordinates
 
 # 🚀 Build & Release (PyInstaller)
 Build executable:
