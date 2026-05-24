@@ -1,6 +1,6 @@
 # MiniBot v2.0.0
 
-MiniBot is a lightweight automation tool with a built-in GUI for managing browser-based MMO gameplay features such as auto fishing, auto food, auto tab switching, and safety logout detection.
+MiniBot is a lightweight automation tool with a built-in GUI for managing browser-based MMO gameplay features such as auto-fishing, auto-eat, auto-tab switching, and auto-logout.
 
 This project is based on the browser MMO game **"Minibia"**, but the code is designed to be reusable as a foundation for other MMO automation tools.
 
@@ -10,20 +10,20 @@ This project is based on the browser MMO game **"Minibia"**, but the code is des
 
 # ✨ Features
 
-## 🍗 AutoFood
-Automatically presses a selected hotkey at a defined interval.
+## 🍗 AutoEat
+Automatically presses selected hotkey for eating at a defined interval.
 
 ## 🔮 RuneMaker
-Automatically presses a selected hotkey at a defined interval.
+Automatically presses selected hotkey for making rune at a defined interval.
 
-## 🎣 AutoFish
+## 🎣 AutoFishing
 Automates fishing by selecting a screen region and running a fishing cycle inside it.
 
 ## 🔄 AutoTab
-Automatically switches between game/browser tabs at a set interval.
+Automatically switches between game browser tabs at a set interval.
 
 ## 🛑 AutoLogout
-Uses OpenCV-based detection to monitor the screen and detect danger (e.g. nearby players).  
+Uses OpenCV-based computer vision detection to monitor the screen and detect danger (e.g. nearby players).  
 Triggers automatic logout when a threat is detected.
 
 ---
@@ -31,7 +31,9 @@ Triggers automatic logout when a threat is detected.
 # 📦 How to setup
 
 1. Clone the project
-2. Download the Python dependencies
+2. Download the Python dependencies with: 
+
+pip install -r requirements.txt
 
 # ▶️ Running the Project 
 
@@ -89,7 +91,7 @@ Click BOTTOM-RIGHT corner
 
 Enable features
 Click Start Bot
-Switch to game window before timer finishes
+Switch to game window before the 5 second timer finishes
 
 4. Stop bot
 
