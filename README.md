@@ -1,6 +1,6 @@
 # MiniBot v2.0.1
 
-MiniBot is a lightweight automation tool with a built-in GUI for managing browser-based MMO gameplay features such as auto-fishing, auto-eat, auto-tab switching and auto-logout.
+MiniBot is a lightweight automation tool with a built-in GUI for managing browser-based MMO gameplay features such as auto-fishing, auto-eat, auto-tab and auto-logout.
 
 This project is based on the browser MMO game **"Minibia"**, but the code is designed to be reusable as a foundation for other MMO automation tools.
 
