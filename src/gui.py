@@ -61,9 +61,9 @@ class MiniBotGUI(ctk.CTk):
         )
 
         # Create tabs
-        self.tabs.add("AutoFood")
+        self.tabs.add("AutoEat")
         self.tabs.add("RuneMaker")
-        self.tabs.add("AutoFish")
+        self.tabs.add("AutoFishing")
         self.tabs.add("AutoTab")
         self.tabs.add("AutoLogout")
         self.tabs.add("About")
@@ -91,9 +91,9 @@ class MiniBotGUI(ctk.CTk):
 
     def create_food_tab(self):
         """
-        Creates the AutoFood settings tab.
+        Creates the AutoEat settings tab.
         """
-        food_tab = self.tabs.tab("AutoFood")
+        food_tab = self.tabs.tab("AutoEat")
         food_tab.grid_columnconfigure(0, weight=1)
         food_tab.grid_rowconfigure(0, weight=1)
 
@@ -107,7 +107,7 @@ class MiniBotGUI(ctk.CTk):
 
         self.food_enabled = ctk.CTkCheckBox(
             food_frame,
-            text="Enable AutoFood"
+            text="Enable AutoEat"
         )
 
         self.food_enabled.grid(
@@ -341,10 +341,10 @@ class MiniBotGUI(ctk.CTk):
 
     def create_fish_tab(self):
         """
-        Creates the AutoFish settings tab.
+        Creates the AutoFishing settings tab.
         """
 
-        fish_tab = self.tabs.tab("AutoFish")
+        fish_tab = self.tabs.tab("AutoFishing")
 
         fish_tab.grid_columnconfigure(0, weight=1)
         fish_tab.grid_rowconfigure(0, weight=1)
@@ -359,7 +359,7 @@ class MiniBotGUI(ctk.CTk):
 
         self.fish_enabled = ctk.CTkCheckBox(
             fish_frame,
-            text="Enable AutoFish"
+            text="Enable AutoFishing"
         )
 
         self.fish_enabled.grid(
@@ -689,7 +689,7 @@ class MiniBotGUI(ctk.CTk):
 
     def save_food_settings(self):
         """
-        Saves AutoFood settings to config.
+        Saves AutoEat settings to config.
         """
 
         src.managers.config_manager.save_value(
@@ -723,7 +723,7 @@ class MiniBotGUI(ctk.CTk):
 
     def save_fish_settings(self):
         """
-        Saves AutoFish settings to config.
+        Saves AutoFishing settings to config.
         """
 
         src.managers.config_manager.save_value(

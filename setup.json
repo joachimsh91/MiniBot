@@ -1,20 +1,20 @@
 {
     "battlelist_region": {
-        "left": 3,
-        "top": 660,
-        "width": 212,
-        "height": 120
+        "left": 5,
+        "top": 659,
+        "width": 209,
+        "height": 118
     },
     "fishing_region": {
-        "left": 515,
-        "top": 175,
-        "width": 834,
-        "height": 586
+        "left": 517,
+        "top": 171,
+        "width": 837,
+        "height": 592
     },
     "food_key": "9",
     "rune_key": "7",
     "fish_key": "0",
-    "food_interval": 30,
-    "rune_interval": 40,
-    "tab_interval": 45
+    "food_interval": 15,
+    "rune_interval": 20,
+    "tab_interval": 30
 }

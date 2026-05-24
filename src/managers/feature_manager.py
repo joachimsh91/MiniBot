@@ -4,8 +4,8 @@ MiniBot features
 '''
 
 import pyautogui
-from src.fishing import FishingBot
-from src.autologout import Autologger
+from src.auto_fishing import FishingBot
+from src.auto_logout import Autologger
 
 class FeatureManager:
     '''Mangages all features'''
