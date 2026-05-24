@@ -2,7 +2,7 @@
 
 MiniBot is a lightweight automation tool with a built-in GUI for managing browser-based MMO gameplay features such as auto-fishing, auto-eat, auto-tab and auto-logout.
 
-This project is based on a classic unoffical version of the browser MMO game **"Tibia"**, but the code is designed to be reusable as a foundation for other MMO automation tools.
+This project is based on an unoffical classic version of the MMO game **"Tibia"**, but the code is designed to be reusable as a foundation for other MMO automation tools.
 
 > ⚠️ This project is intended for educational purposes only. Use at your own risk.
 
