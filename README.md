@@ -70,15 +70,21 @@ pytest tests/test_feature_manager.py
 Inside GUI:
 
 Set hotkeys
+
 Set intervals
+
 Save settings
 
 2. Setup regions
 
 🎣 Fishing Area
+
 Open AutoFish tab
+
 Click Setup Fishing Area
+
 Click TOP-LEFT corner
+
 Click BOTTOM-RIGHT corner
 
 🛑 AutoLogout Area
