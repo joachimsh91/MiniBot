@@ -83,9 +83,9 @@ Setup regions
 
 2. Click Setup Fishing Area
 
-3. Click TOP-LEFT corner
+3. Click TOP-LEFT corner of the game window
 
-4. Click BOTTOM-RIGHT corner
+4. Click BOTTOM-RIGHT corner of the game window
 
 
 🛑 AutoLogout Area
@@ -94,9 +94,9 @@ Setup regions
 
 2. Click Setup Battlelist
 
-3. Click TOP-LEFT corner
+3. Click TOP-LEFT corner of the battlelist
 
-4. Click BOTTOM-RIGHT corner
+4. Click BOTTOM-RIGHT corner of the battlelist
 
 
 Start bot
