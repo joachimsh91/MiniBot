@@ -65,7 +65,8 @@ Run specific test:
 pytest tests/test_feature_manager.py
 
 # 🖥️ Usage Guide
-1. Configure features
+
+Configure features
 
 Inside GUI:
 
@@ -75,7 +76,8 @@ Set intervals
 
 Save settings
 
-2. Setup regions
+
+Setup regions
 
 🎣 Fishing Area
 
@@ -87,19 +89,26 @@ Click TOP-LEFT corner
 
 Click BOTTOM-RIGHT corner
 
+
 🛑 AutoLogout Area
+
 Open AutoLogout tab
+
 Click Setup Battlelist
+
 Click TOP-LEFT corner
+
 Click BOTTOM-RIGHT corner
 
-3. Start bot
+
+Start bot
 
 Enable features
 Click Start Bot
 Switch to game window before the 5 second timer finishes
 
-4. Stop bot
+
+Stop bot
 
 Click Stop Bot
 
